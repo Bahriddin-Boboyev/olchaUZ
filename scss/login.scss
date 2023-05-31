@@ -295,7 +295,7 @@
     left: 10%;
     top: 0;
     width: 400px;
-    height: 80vh;
+    height: 60vh;
   }
   .sign-in-phone[data-v-ab6ff962] {
     height: 80%;
@@ -303,5 +303,29 @@
   .close {
     top: 42px;
     right: 42px;
+  }
+  .sign-in-phone .title[data-v-ab6ff962] {
+    font-size: 16px;
+  }
+  .sign-in-phone .description[data-v-ab6ff962] {
+    margin-top: 8px;
+    font-size: 14px;
+    line-height: 10px;
+  }
+  .new-sign-in[data-v-4d0abd4e] {
+    padding: 5px;
+  }
+  .new-sign-in .sign-in-wrapper[data-v-4d0abd4e] {
+    margin: 0 auto 0;
+  }
+  .content[data-v-228ccc36] {
+    padding: 10px;
+    margin-top: 20px;
+  }
+  .sign-in-phone[data-v-ab6ff962] {
+    height: 250px;
+  }
+  .bottom {
+    margin-top: 8px;
   }
 }
