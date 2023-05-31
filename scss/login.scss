@@ -1,0 +1,307 @@
+.content-wrapper[data-v-228ccc36] {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+.background[data-v-228ccc36] {
+  position: absolute;
+  left: 0;
+  top: -100vh;
+  height: 100vh;
+  width: 100%;
+  background: rgba(14, 14, 15, 0.32);
+  overflow: hidden;
+  touch-action: none;
+  -ms-touch-action: none;
+}
+.content-centered[data-v-228ccc36] {
+  top: 7%;
+  z-index: 3;
+  margin: auto;
+  position: fixed;
+}
+.content[data-v-228ccc36] {
+  background: #fff;
+  border-radius: 8px;
+  overflow: hidden;
+  padding: 32px;
+  margin: 32px;
+}
+.line[data-v-228ccc36] {
+  display: none;
+}
+.close {
+  position: absolute;
+  top: 62px;
+  right: 62px;
+  cursor: pointer;
+  z-index: 2;
+}
+.close[data-v-228ccc36] rect {
+  fill: rgba(118, 121, 127, 0.1);
+}
+.new-sign-in[data-v-4d0abd4e] {
+  // font-family: Inter;
+  height: 418px;
+}
+.header[data-v-4d0abd4e] {
+  position: relative;
+  height: 28px;
+}
+.popup-title[data-v-4d0abd4e] {
+  display: none;
+  position: absolute;
+  top: 7px;
+  width: max-content;
+  font-weight: 500;
+  font-size: 18px;
+  left: 50%;
+  transform: translate(-50%, 0);
+}
+.sign-in-wrapper[data-v-4d0abd4e] {
+  width: 350px;
+  height: 366px;
+  margin: 28px auto 0;
+}
+.sign-in-phone[data-v-ab6ff962] {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  // font-family: Inter;
+  width: 100%;
+  height: 100%;
+}
+.slideUp[data-v-228ccc36] {
+  animation: slideup-data-v-228ccc36 0.3s forwards;
+}
+.new-sign-in[data-v-4d0abd4e] {
+  // font-family: Inter;
+  height: 418px;
+}
+.header[data-v-4d0abd4e] {
+  position: relative;
+  height: 28px;
+}
+.popup-title[data-v-4d0abd4e] {
+  display: none;
+  position: absolute;
+  top: 7px;
+  width: max-content;
+  font-weight: 500;
+  font-size: 18px;
+  left: 50%;
+  transform: translate(-50%, 0);
+}
+.sign-in-wrapper[data-v-4d0abd4e] {
+  width: 350px;
+  height: 366px;
+  margin: 28px auto 0;
+}
+.sign-in-phone[data-v-ab6ff962] {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  // font-family: Inter;
+  width: 100%;
+  height: 100%;
+}
+.sign-in-phone .title[data-v-ab6ff962] {
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 30px;
+  letter-spacing: -0.01em;
+}
+.sign-in-phone .description[data-v-ab6ff962] {
+  margin-top: 12px;
+  font-size: 16px;
+  line-height: 20px;
+}
+.sign-in-phone[data-v-ab6ff962] .ui-input {
+  display: flex;
+  align-items: center;
+  color: #141415;
+  transition: all 0.15s ease-in-out;
+  background-color: rgba(118, 121, 127, 0.05);
+  border-radius: 4px;
+  height: 40px;
+  padding: 0 16px;
+  margin-top: 32px;
+  height: 52px;
+  border-radius: 12px;
+}
+.sign-in-phone[data-v-ab6ff962] .ui-input .before {
+  margin-right: 2px;
+  width: max-content;
+  // font-family: Inter;
+  font-size: 20px;
+  font-weight: 400;
+}
+.sign-in-phone[data-v-ab6ff962] .ui-input input {
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 24px;
+}
+.sign-in-phone[data-v-ab6ff962] .ui-input input {
+  font-size: 20px;
+  // font-family: Inter;
+  line-height: 20px;
+  letter-spacing: -0.01em;
+  border: none;
+  width: 100%;
+  height: 100%;
+  color: inherit;
+  background-color: transparent;
+  outline: none;
+}
+.sign-in-phone .button[data-v-ab6ff962] {
+  width: 100%;
+  height: 52px;
+  margin-top: 24px;
+}
+.ui-button.primary-violet[data-v-57aaf377] {
+  --bg-color: #7000ff;
+  --color: #fff;
+}
+.ui-button.medium[data-v-57aaf377] {
+  // font-family: Inter;
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 500;
+  letter-spacing: 0.004em;
+  text-align: center;
+  --border-radius: 12px;
+  height: 44px;
+  padding: 0 14px;
+  column-gap: 8px;
+}
+.ui-button[data-v-57aaf377] {
+  --bg-color: transparent;
+  --color: #000;
+  --border-radius: 10px;
+  background-color: var(--bg-color);
+  color: var(--color);
+  border-radius: var(--border-radius);
+  text-decoration: none;
+  display: inline-flex;
+  border: none;
+  cursor: pointer;
+  justify-content: center;
+  align-items: center;
+  align-self: center;
+  transition: all 0.2s;
+}
+.ui-button.medium[data-v-57aaf377] .slot.default {
+  margin: 0 2px;
+}
+.ui-button .slot[data-v-57aaf377] {
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.sign-in-phone .by-password[data-v-ab6ff962] {
+  margin: 0 auto;
+  width: max-content;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 20px;
+  letter-spacing: -0.01em;
+  cursor: pointer;
+  // font-family: Inter;
+}
+.sign-in-phone .policy[data-v-ab6ff962] {
+  margin-top: 28px;
+  text-align: center;
+  font-size: 14px;
+  line-height: 18px;
+}
+.sign-in-phone .policy a[data-v-ab6ff962] {
+  color: #0070e0;
+  text-decoration: none;
+}
+.none {
+  display: none !important;
+}
+
+.title {
+  text-align: center;
+}
+
+.description {
+  text-align: center;
+}
+
+.login {
+  z-index: 3;
+}
+
+.header-bottom__login-shadow {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: #00000049;
+  z-index: 2;
+}
+
+.content-centered[data-v-228ccc36] {
+  right: 33%;
+}
+// responsive
+
+@media (min-width: 640px) and (max-width: 959px) {
+  .new-sign-in[data-v-4d0abd4e] {
+    height: 568px;
+    padding: 16px;
+  }
+  .new-sign-in .header .popup-title[data-v-4d0abd4e] {
+    display: block;
+  }
+  .new-sign-in[data-v-4d0abd4e] {
+    height: 568px;
+    padding: 16px;
+  }
+  .slideUp[data-v-228ccc36] {
+    position: fixed;
+    left: 10%;
+    top: 0;
+    width: 500px;
+    height: 80vh;
+  }
+}
+
+@media (max-width: 639px) {
+  .new-sign-in[data-v-4d0abd4e] {
+    height: 568px;
+    padding: 16px;
+  }
+  .new-sign-in .sign-in-wrapper[data-v-4d0abd4e] {
+    width: 288px;
+    height: 466px;
+  }
+  .sign-in-phone .title[data-v-ab6ff962] {
+    font-size: 22px;
+  }
+  .new-sign-in[data-v-4d0abd4e] {
+    height: 468px;
+    padding: 16px;
+  }
+  .slideUp[data-v-228ccc36] {
+    position: fixed;
+    left: 10%;
+    top: 0;
+    width: 400px;
+    height: 80vh;
+  }
+  .sign-in-phone[data-v-ab6ff962] {
+    height: 80%;
+  }
+  .close {
+    top: 42px;
+    right: 42px;
+  }
+}
